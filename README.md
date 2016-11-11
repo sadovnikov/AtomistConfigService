@@ -1,0 +1,2 @@
+# AtomistConfigService
+My new project
